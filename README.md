@@ -1,7 +1,7 @@
 <h1 align="">Hi World 👋🏾</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndresSern" alt="AndresSerna" /> </p>
 <div>
-  <img align="center" alt="Daniel Eduardo's Github Stats" class="responsive" src="https://github-readme-stats.vercel.app/api?username=dany-eduard&count_private=true&show_icons=true&theme=algolia&cache_seconds=1800" />
+  <img align="center" alt="Andres Campo's Github Stats" class="responsive" src="https://github-readme-stats.vercel.app/api?username=AndresSerna&count_private=true&show_icons=true&theme=algolia&cache_seconds=1800" />
   <img width="413" alt="Andres Cmapo Github Stats" class="responsive" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSern&layout=compact&theme=algolia&cache_seconds=1800&langs_count=6&hide=c" />
 </div>
 <br>
