@@ -2,14 +2,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndresSern" alt="AndresSerna" /> </p>
 <div>
   <img align="center" alt="Daniel Eduardo's Github Stats" class="responsive" src="https://github-readme-stats.vercel.app/api?username=dany-eduard&count_private=true&show_icons=true&theme=algolia&cache_seconds=1800" />
-  <img width="413" alt="Daniel Eduardo's Github Stats" class="responsive" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-eduard&layout=compact&theme=algolia&cache_seconds=1800&langs_count=6&hide=c" />
+  <img width="413" alt="Andres Cmapo Github Stats" class="responsive" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSern&layout=compact&theme=algolia&cache_seconds=1800&langs_count=6&hide=c" />
 </div>
 <br>
 
 <h2>📬 Contact me ☎</h2>
 <p align="">
     <!-- linkedin -->
-    <a href="https://www.linkedin.com/in/daniel-eduardo-almagro-966a271a9/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="40px" alt="LinkedIn"></a> &nbsp;
+    <a href="https://www.linkedin.com/in/campoandres98/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="40px" alt="LinkedIn"></a> &nbsp;
     <!-- twitter -->
     <a href="https://twitter.com/CampoAndres98"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="40px" alt="Twitter"> </a> &nbsp;
     <!-- gmail-->
