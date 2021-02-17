@@ -1,8 +1,6 @@
 <h1 align="">Hi World 👋🏾</h1>
-<div>
-  <img width="413" alt="Andres Cmapo Github Stats" class="responsive" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSern&layout=compact&theme=algolia&cache_seconds=1800&langs_count=6&hide=c" />
-</div>
-<br>
+## Github Programming Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres802&layout=compact&hide_border=true&count_private=true&langs_count=20)
 
 <h2>📬 Contact me ☎</h2>
 <p align="">
