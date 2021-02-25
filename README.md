@@ -8,8 +8,8 @@
 ## Github Programming Languages
 <h1 align="left" width="40px">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSern&layout=compact&hide_border=true&count_private=true&langs_count=20" style="max-width:60%;" alt="andressern" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=andressern&show_icons=true&locale=en" alt="andressern" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSern&layout=compact&hide_border=true&count_private=true&langs_count=20" style="max-width:60%;" alt="andressern" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=andressern&show_icons=true&locale=en" alt="andressern" /></p>
 </h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andressern&" alt="andressern" /></p>
 
