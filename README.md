@@ -6,7 +6,7 @@
 <br/>  
 
 
-## Github Programming Languages
+## Github Programming Languages, Stats and Contributions 
 
 <table><tr><td valign="top" width="50%">
 
