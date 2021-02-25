@@ -1,7 +1,7 @@
 <h1 align="center">Hi World, I am Andres Campo👍!</h1>
 <h3 align="center">I'm a software developer in progress at Holberton School</h4>
 
-<h3 align="center">I am currently studying and practicing programming languages C, Javascript, Python3 and Mysql</h4>
+<h3 align="center">I am currently studying and practicing programming languages in C, Javascript, Python3 and Mysql</h4>
 
 
 
