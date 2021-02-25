@@ -8,7 +8,7 @@
 ## Github Programming Languages
 <h1 align="left">
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSern&layout=compact&hide_border=true&count_private=true&langs_count=20" alt="andressern" style="margin-bottom: 5px;"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSern&layout=compact&hide_border=true&count_private=true&langs_count=20" alt="andressern" witdh= "400px"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=andressern&show_icons=true&locale=en" alt="andressern" /></p>
 </h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andressern&" alt="andressern" /></p>
