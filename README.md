@@ -3,14 +3,27 @@
 
 <h3 align="center">I am currently studying and practicing programming languages in C, Javascript, Python3 and Mysql</h4>
 
+<br/>  
 
 
 ## Github Programming Languages
 
+<table><tr><td valign="top" width="50%">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSern&layout=compact&hide_border=true&count_private=true&langs_count=20" style="max-width:60%;" alt="andressern" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=andressern&show_icons=true&locale=en" alt="andressern" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSern&layout=compact&hide_border=true&count_private=true&langs_count=20" style="max-width:60%;" alt="andressern" />
+
+</td><td valign="top" width="50%">
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=andressern&show_icons=true&locale=en" alt="andressern" />
+ 
+</td></tr></table>  
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andressern&" alt="andressern" /></p>
+
+
+
+
 
 
 <h2>📬 Contact me ☎</h2>
