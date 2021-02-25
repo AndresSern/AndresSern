@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi World, I am Andres Campo👍!</h1>
-<h4 align="center">I'm a software developer in progress at Holberton School</h4>
+<h3 align="center">I'm a software developer in progress at Holberton School</h4>
 
-<h4 align="center">I am currently studying and practicing programming languages</h4>
+<h3 align="center">I am currently studying and practicing programming languages</h4>
 <br/>
 
 <h2 align="center">Languages and Tools:</h2>
