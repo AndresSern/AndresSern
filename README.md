@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andressern&label=Profile%20views&color=0e75b6&style=flat" alt="andressern" /> </p>
+
 <h1 align="center">Hi World, I am Andres Campo👍!</h1>
 <h3 align="center">I'm a software developer in progress at Holberton School</h4>
 
