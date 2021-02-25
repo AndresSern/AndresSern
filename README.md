@@ -7,6 +7,9 @@
 
 ## Github Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSern&layout=compact&hide_border=true&count_private=true&langs_count=20)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andressern&show_icons=true&locale=en" alt="andressern" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andressern&" alt="andressern" /></p>
+
 
 <h2>📬 Contact me ☎</h2>
 <p align="">
