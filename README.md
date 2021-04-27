@@ -27,12 +27,10 @@
 
 <br/> 
 
-<h2>📬 Contact me ☎</h2>
-<p align="">
+<h2 align="center">📬 Contact me ☎</h2>
+<p align="center">
     <!-- linkedin -->
-    <a href="https://www.linkedin.com/in/campoandres98/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="40px" alt="LinkedIn"></a> &nbsp;
-    <!-- twitter -->
-    <a href="https://twitter.com/CampoAndres98"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="40px" alt="Twitter"> </a> &nbsp;
+    <a href="https://www.linkedin.com/in/campoandres98/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-rectangle-512.png" width="40px" alt="LinkedIn"></a> &nbsp;
     <!-- gmail-->
     <a href="mailto:campoandres98@gmail.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="40px" alt="e-mail"></a> &nbsp;
 </p>
