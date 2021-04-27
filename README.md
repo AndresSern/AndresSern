@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi World, I am Andres Campo👍!</h1>
-   <h3 align="center">I'm a software developer in progress at Holberton School</h4>
-   <h3 align="center">I am currently studying and practicing programming languages</h4>
+   <h3 align="center">  
+   I am a Software Developer and Electronics Technician.<br>
+   I like to solve problems in HackeRank and practice about programming languages.<br>
+   In my free time I like to play basketball and watch TV series. </h3>
 
 <br/>
 
