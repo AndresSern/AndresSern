@@ -29,8 +29,7 @@
 
 <h2 align="center">📬 Contact me ☎</h2>
 <p align="center">
-    <!-- linkedin -->
-    <a href="https://www.linkedin.com/in/campoandres98/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-rectangle-512.png" width="40px" alt="LinkedIn"></a> &nbsp;
-    <!-- gmail-->
-    <a href="mailto:campoandres98@gmail.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="40px" alt="e-mail"></a> &nbsp;
+  <a href="https://www.linkedin.com/in/campoandres98/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </p>
