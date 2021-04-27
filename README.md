@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi World, I am Andres Campo👍!</h1>
+<h3 align="center">I'm a software developer in progress at Holberton School</h4>
 
-<h3 align="center">I'm a software developer in progress at Holberton School</h3>
-<h3 align="center">I am currently studying and practicing programming languages</h3>
-
+<h3 align="center">I am currently studying and practicing programming languages</h4>
 <br/>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -11,17 +10,7 @@
 
 <br/>  
 
-<br/> 
-
-<h2 align="center">📬 Contact me ☎</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/campoandres98/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</p>
-
-<br/>
-<h2 align="center"> Github Programming Languages, Stats and Contributions </h2>
+## Github Programming Languages, Stats and Contributions 
 
 <table><tr><td valign="top" width="50%">
 
@@ -34,5 +23,22 @@
  
 </td></tr></table>  
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andressern&" alt="andressern" /></p>
+
+<br/> 
+
+<h2 align="center">📬 Contact me ☎</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/campoandres98/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+   
+</a>
+</p>
 
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/campoandres98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="campoandres98" height="30" width="40" /></a>
+</p>
