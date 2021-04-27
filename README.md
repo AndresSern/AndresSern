@@ -25,7 +25,7 @@
 
 <br/>  
 
-<h2 aling="center"> Github Programming Languages, Stats and Contributions </h2> 
+<h2 align="center"> Github Programming Languages, Stats and Contributions </h2> 
 
   <table><tr><td valign="top" width="50%">
 
