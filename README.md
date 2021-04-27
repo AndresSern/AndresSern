@@ -10,6 +10,15 @@
 
 <br/>  
 
+<br/> 
+
+<h2 align="center">📬 Contact me ☎</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/campoandres98/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</p>
+
 ## Github Programming Languages, Stats and Contributions 
 
 <table><tr><td valign="top" width="50%">
@@ -23,13 +32,5 @@
  
 </td></tr></table>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andressern&" alt="andressern" /></p>
 
-<br/> 
 
-<h2 align="center">📬 Contact me ☎</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/campoandres98/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</p>
