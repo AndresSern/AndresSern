@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi World, I am Andres Campo👍!</h1>
-<h3 align="center">I'm a software developer in progress at Holberton School</h4>
 
-<h3 align="center">I am currently studying and practicing programming languages</h4>
+<h3 align="center">I'm a software developer in progress at Holberton School</h3>
+<h3 align="center">I am currently studying and practicing programming languages</h3>
+
 <br/>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -19,7 +20,8 @@
 </a>
 </p>
 
-## Github Programming Languages, Stats and Contributions 
+<br/>
+<h2 align="center"> Github Programming Languages, Stats and Contributions </h2>
 
 <table><tr><td valign="top" width="50%">
 
