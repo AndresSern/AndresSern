@@ -8,9 +8,9 @@
 <h2 align="center">📬 Contact me ☎</h2>
   <p align="center">
       <a href="https://www.linkedin.com/in/campoandres98/" target="_blank">
-      <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+      <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 150px;" />
       <a href="https://www.hackerrank.com/campoandres98" target="_blank">
-      <img src=https://img.shields.io/badge/hackerrank-%23292929.svg?&style=for-the-badge&logo=hackerrank&logoColor=green alt=hackerrank style="margin-bottom: 5px;  margin-right: 100px;" />
+      <img src=https://img.shields.io/badge/hackerrank-%23292929.svg?&style=for-the-badge&logo=hackerrank&logoColor=green alt=hackerrank style="margin-bottom:5px; margin-right: 150px;"/>
       <a href="https://twitter.com/CampoAndres98" target="_blank">
       <img src=https://img.shields.io/badge/twitter-%231E77B5.svg?&style=for-the-badge&logo=twitter&logoColor=red alt=linkedin style="margin-bottom: 5px; margin-right: 20px;" />
 
